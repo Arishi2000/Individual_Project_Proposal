@@ -21,7 +21,7 @@ Project Relevance:
 Conceptual Design
 
 
-- If the project got picked, we will try to come up with more features other than reprioritizing and renaming and the other normal features. 
+- If the project got picked, we will try to come up with more features other than reprioritizing and renaming and the other regular features. 
 
 
 Required Resource
